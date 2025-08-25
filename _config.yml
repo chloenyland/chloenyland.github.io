@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chloe Nyland # the main title
+title: Chloe Nyland's blog # the main title
 
-tagline: My personal blog # it will display as the subtitle
+tagline: Reflections of my learning journey, tech conferences, side projects, and tutorials # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Life as it happens: unfiltered, non-linear, and unapologetic
+  blog, Chloe Nyland, github
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
