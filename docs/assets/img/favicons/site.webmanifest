@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chloe Nyland",
-  "short_name": "Chloe Nyland",
-  "description": "Life as it happens: unfiltered, non-linear, and unapologetic",
+  "name": "Chloe Nyland's blog",
+  "short_name": "Chloe Nyland's blog",
+  "description": "blog, Chloe Nyland, github",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

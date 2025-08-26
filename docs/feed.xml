@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chloenyland.github.io/</id>
-  <title>Chloe Nyland</title>
-  <subtitle>Life as it happens: unfiltered, non-linear, and unapologetic</subtitle>
-  <updated>2025-08-25T19:14:56+00:00</updated>
+  <title>Chloe Nyland's blog</title>
+  <subtitle>blog, Chloe Nyland, github</subtitle>
+  <updated>2025-08-26T08:25:56+01:00</updated>
   <author>
     <name>Chloe Nyland</name>
     <uri>https://chloenyland.github.io/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Hello World</title>
     <link href="https://chloenyland.github.io/posts/hello-world/" rel="alternate" type="text/html" title="Hello World" />
-    <published>2025-08-24T16:00:00+00:00</published>
+    <published>2025-08-24T17:00:00+01:00</published>
   
-    <updated>2025-08-24T16:00:00+00:00</updated>
+    <updated>2025-08-24T17:00:00+01:00</updated>
   
     <id>https://chloenyland.github.io/posts/hello-world/</id>
     <content type="text/html" src="https://chloenyland.github.io/posts/hello-world/" />
