@@ -14,3 +14,32 @@
 *.png binary
 *.jpg binary
 *.ico binary
+
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Jekyll & web files should always use LF
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.xml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+# Force bash scripts to always use LF
+*.sh text eol=lf
+
+# Force batch scripts to always use CRLF
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.ico binary
+*.gif binary
+*.woff binary
+*.woff2 binary
