@@ -43,3 +43,11 @@
 *.gif binary
 *.woff binary
 *.woff2 binary
+
+# Make sure your .gitattributes has LF rules for Markdown posts
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
